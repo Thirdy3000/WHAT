@@ -57,7 +57,7 @@
 	    <div> This is div</div>
 	  <hr>  
 	  <div>This is div</div>
-	  <img src="GRADE 7 CS EXAM ANSWER SHEET.jpg" alt="sigma" width="150px" height="150px">
+	  <img src="GRADE 7 CS EXAM ANSWER SHEET.jpg" alt="sigma" width="150px" height="150px title="This is brain rot"">
 
 	  
   </body>
